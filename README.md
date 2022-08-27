@@ -6,7 +6,7 @@
 | Number | With whom | Product | Link |
 | ------------- | ------------- | ------------- | ------------- |
 || **Round 1**   |||
-| 1 | Andrey Tvorozhkov | toncli, Disintar.io - TON NFT marketplace | [LINK](.disintar.md)  | 
+| 1 | Andrey Tvorozhkov | toncli, Disintar.io - TON NFT marketplace | [LINK](./disintar.md)  | 
 
 
 
