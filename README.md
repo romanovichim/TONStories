@@ -12,7 +12,7 @@
 
 ## Want to talk about your project?
 
-Leave your contacts and describe your project here:
+Leave your contacts and describe your project here: https://docs.google.com/forms/d/e/1FAIpQLSe0ZSc1ewqQDu4F-qmHalVH8bndgD5FJpERAF-9QsUreP7rdQ/viewform?usp=sf_link
 
 ## Support the project
 
