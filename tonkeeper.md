@@ -38,4 +38,4 @@ If you are building smart contracts on TON, the key is to understand its asynchr
 
 ## Where can we go to learn more about your product?
 
-[tonkeeper.com](tonkeeper.com), [tonkeeper.t.me](tonkeeper.t.me)
+[tonkeeper.com](https://tonkeeper.com/), [tonkeeper.t.me](https://t.me/tonkeeper)
