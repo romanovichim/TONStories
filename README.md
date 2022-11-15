@@ -7,7 +7,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 || **Round 1**   |||
 | 1 | Andrey Tvorozhkov | toncli, Disintar.io - TON NFT marketplace | [LINK](./disintar.md)  | 
-
+| 2 | Oleg Andreev | Tonkeeper wallet - Your mobile wallet on The Open Network  | [LINK](./tonkeeper.md)  | 
 
 
 ## Want to talk about your project?
