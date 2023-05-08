@@ -17,7 +17,7 @@ What happens if someone wants to dump Footstep, for example, writes that he is r
 
 ## About Technologies:
 
-Many footsteps are open now ([1](https://github.com/ton-society/ton-footsteps/issues/204), [2](https://github.com/ton-society/ton-footsteps/ issues/205), [3](https://github.com/ton-society/ton-footsteps/issues/224)) via the TON SDK. 
+Many footsteps are open now ([1](https://github.com/ton-society/ton-footsteps/issues/204), [2](https://github.com/ton-society/ton-footsteps/issues/205), [3](https://github.com/ton-society/ton-footsteps/issues/224)) via the TON SDK. 
 However, they don’t mention at all, let’s call it “TON native technologies”, for example, ADNL. The interaction is supposed to be built through RPC, i.e. through some intermediary, as, for example, in [tonweb](https://github.com/toncenter/tonweb). Are there any plans to stimulate development specifically taking into account “TON native technologies” (ADNL, RLDP etc.)
 
 ## About content:
